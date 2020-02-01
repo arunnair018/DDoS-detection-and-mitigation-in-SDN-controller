@@ -11,7 +11,7 @@ To install POX controller
 $ git clone http://github.com/noxrepo/pox
 $ cd pox
 ```  
-To run mininet topology, run miniedit and open topology.mn file.  
+To run mininet topology, run miniedit and open topology.mn file.    
 For simulation of controller,
    1) Paste detect.py and l3.py in pox/pox/forwarding/
    2) Run pox controller:
