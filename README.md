@@ -1,5 +1,5 @@
 # DDoS-detection-and-mitigation-in-SDN-controller
-## An Entropy based algorithm to detect and mitigate DDoS attack in a SDN.  
+## a Software-defined IoT gateway model to provide a more agile, secure, programmable gateway for IoT networks. Integrated with monitoring and mitigation methods to address the issue of DDoS attack in IoT  
 To install mininet  
 ```
 $ git clone git://github.com/mininet/mininet
